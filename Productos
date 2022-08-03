@@ -20,6 +20,8 @@
         <br>
         <select>
             <option value="">Ingrese la opcion</option>
+            <option>Fruta</option>
+            <option>verdura</option>
         </select>
         
         <br>
